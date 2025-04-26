@@ -1,4 +1,4 @@
 build:
-  id: "configdemo yml on github"
-  name: "Git Default Build"
+  id: "configdemo Default-yml on github"
+  name: "Git configdemo Default Build"
   version: 6.6.6.6
