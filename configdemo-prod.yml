@@ -1,1 +1,4 @@
-
+build:
+  id: "configdemo Prod-yml on github"
+  name: "Git configdemo Prod Build"
+  version: 8.8.8.8
